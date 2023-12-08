@@ -1,0 +1,1 @@
+With this tiny piece of code on the left side of the screen, I was able to read this current file, translate it from English to Spanish using the "translate" package, write the translation to a new file, and output the translation onto the command line. Isn't that impressive?!

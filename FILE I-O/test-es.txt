@@ -1,0 +1,1 @@
+Con este pequeño fragmento de código en el lado izquierdo de la pantalla, pude leer este archivo actual, traducirlo del inglés al español utilizando el paquete "translate", escribir la traducción en un nuevo archivo y enviar la traducción a la línea de comandos. ¡¿No es impresionante?!
